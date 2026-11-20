@@ -1,4 +1,4 @@
-# Data Science Toolbox group sprint 2
+# Data Science Toolbox Group Sprint 2
 ## Group members:
 - Hana Shadi
 - Eden Costello
